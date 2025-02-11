@@ -59,4 +59,4 @@ pnpm add comsvr-schedule
 ```
 
 ## Maintainers
-[@elias](https://github.com/eliassama/comsvr-schedule)
+[@CocytusElias](https://github.com/CocytusElias)
